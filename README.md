@@ -1,4 +1,4 @@
-<div center>
+<div align="center">
 
 # IT Documentation Search Tool – Python CLI Project
 
